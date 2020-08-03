@@ -12,4 +12,4 @@ Included here are the Test configurations for MPLS testing with FreeRTR as well 
 ### Diagrams and physical layout
 
 The Physical layout of this test environment is detailed in this diagram. This was built on EVE-NG bare metal server with significant horsepower.
-![Physical lab Topology](https://github.com/buraglio/FreeRTR-SROS-ExampleNet/blob/master/Network%20Diagram.png?raw=true "Physical Lab Topology")
+![Physical lab Topology](https://github.com/buraglio/FreeRTR-Examplenet/blob/master/Network%20Diagram.png?raw=true "Physical Lab Topology")
