@@ -2,6 +2,7 @@
 
 ### FreeRTR Routing topology testing
 Included here are the Test configurations for MPLS testing with FreeRTR as well as the Topology and Eve-NG Lab XML File. This repo consists of a 4 Router Lab utilizing FreeRTR for testing. More information on freertr can be found [here](https://forwardingplane.net/2019/03/02/freertr-as-a-lab-environment/) and [here](http://freerouter.nop.hu/)
+This is a work in progress and will change over time. 
 
 ### Files and such
 
